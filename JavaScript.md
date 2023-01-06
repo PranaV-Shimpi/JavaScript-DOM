@@ -30,7 +30,7 @@ document.querySelector('.color-base-70').innerHTML = "I write code"
 
 ### Task
 
-![Store](./Pictuimgs/re_3.png)
+![Store](./imgs/Picture_3.png)
 
 ### Fetch all the product name and store in an array
 
@@ -247,7 +247,7 @@ lang.forEach((ele,idx)=>{
 ### Ans:
 
 ```
-
+document.querySelector('.text-color-white').style.color = "Red";
 ```
 
 10. Webiste Name: [Freecodecamp](https://www.freecodecamp.org/)
